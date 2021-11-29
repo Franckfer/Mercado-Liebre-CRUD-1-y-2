@@ -1,0 +1,6 @@
+creamos la carpeta controllers ye en ella creamos
+los archivos controladores con extension js que se encargan 
+de manejar la logica que tenga que ver con el recurso o metodo que estemos
+trabajando
+como: productos, formularios,
+mostrar, borrar, editar, modificar productos, etc
